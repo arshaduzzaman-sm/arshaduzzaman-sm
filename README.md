@@ -2,7 +2,7 @@
 
 **SQA Engineer in Tokyo** — I test IoT building-automation systems end to end: devices, firmware, edge gateways, cloud platforms and REST APIs.
 
-🌐 **Portfolio:** [arshaduzzaman3620.github.io](https://arshaduzzaman3620.github.io) &nbsp;·&nbsp; 💼 **LinkedIn:** [arshaduzzaman-sm](https://www.linkedin.com/in/arshaduzzaman-sm/)
+🌐 **Portfolio:** [arshaduzzaman-sm.github.io](https://arshaduzzaman-sm.github.io) &nbsp;·&nbsp; 💼 **LinkedIn:** [arshaduzzaman-sm](https://www.linkedin.com/in/arshaduzzaman-sm/)
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Project | What it shows |
 |---|---|
-| [**SmartIoT — Smart-Home Quality Engineering Platform**](https://github.com/Arshaduzzaman3620/smart-iot-sqa-platform) | 816 automated tests across 7 layers, k6 load testing, failure injection, security testing and CI/CD — FastAPI, MQTT, MySQL, React, Docker |
-| [**Arshia Restaurant**](https://github.com/Arshaduzzaman3620/arshia-restaurant) | A cinematic 3D website in plain HTML, CSS, JavaScript and Three.js — accessible and responsive |
+| [**SmartIoT — Smart-Home Quality Engineering Platform**](https://github.com/arshaduzzaman-sm/smart-iot-sqa-platform) | 816 automated tests across 7 layers, k6 load testing, failure injection, security testing and CI/CD — FastAPI, MQTT, MySQL, React, Docker |
+| [**Arshia Restaurant**](https://github.com/arshaduzzaman-sm/arshia-restaurant) | A cinematic 3D website in plain HTML, CSS, JavaScript and Three.js — accessible and responsive |
 
 ### Toolkit
 
@@ -31,4 +31,4 @@ English · Japanese
 
 ---
 
-📫 Open to SQA and test automation roles — reach me through my [portfolio](https://arshaduzzaman3620.github.io) or [LinkedIn](https://www.linkedin.com/in/arshaduzzaman-sm/).
+📫 Open to SQA and test automation roles — reach me through my [portfolio](https://arshaduzzaman-sm.github.io) or [LinkedIn](https://www.linkedin.com/in/arshaduzzaman-sm/).
