@@ -27,7 +27,7 @@
 
 ### Languages
 
-English · Japanese (working level)
+English · Japanese 
 
 ---
 
