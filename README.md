@@ -14,6 +14,11 @@
 - **API and network testing** — REST APIs, Linux/Debian edge systems, IP / DHCP / Wi-Fi
 - Led my company's **BACnet BTL certification** (2025), working between the Japanese development team, the vendor and the certification lab
 
+### Currently
+
+- Building **myOpenSDET**, an open-source SDET handbook with practical QA lessons (Python, API testing, Playwright, CI/CD), written while I learn and practise *(in progress)*
+- Learning Playwright with Python and API test automation with pytest
+
 ### Featured projects
 
 | Project | What it shows |
