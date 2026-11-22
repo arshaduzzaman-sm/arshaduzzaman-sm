@@ -18,8 +18,8 @@ I test IoT building-automation and energy-management systems end to end: devices
 
 ### Currently
 
-- Building **myOpenSDET**, an open-source SDET handbook with practical QA lessons (Python, API testing, Playwright, CI/CD), written while I learn and practise *(in progress)*  
-  [Live site](https://arshaduzzaman-sm.github.io/zero-to-sdet/) · [Source code](https://github.com/arshaduzzaman-sm/zero-to-sdet)
+- Building **[myOpenSDET](https://myopensdet.github.io/)**, an open-source SDET handbook with practical QA lessons (Python, API testing, Playwright, CI/CD), written while I learn and practise *(in progress)*  
+  [Live site](https://myopensdet.github.io/) · [Source code](https://github.com/myopensdet/myopensdet.github.io)
 
 ### Featured project
 
