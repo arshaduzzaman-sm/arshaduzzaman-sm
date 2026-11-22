@@ -38,9 +38,7 @@ Also built: [Arshia Restaurant](https://github.com/arshaduzzaman-sm/arshia-resta
 **Backend and web** &nbsp; `FastAPI` `MySQL` `React` `TypeScript`  
 **Workflow** &nbsp; `Jira` `Agile / Scrum`
 
-### Languages
 
-Bengali (native) · English (fluent) · Japanese (daily working language) · German (learning)
 
 ---
 
