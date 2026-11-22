@@ -17,7 +17,6 @@
 ### Currently
 
 - Building **myOpenSDET**, an open-source SDET handbook with practical QA lessons (Python, API testing, Playwright, CI/CD), written while I learn and practise *(in progress)*
-- Learning Playwright with Python and API test automation with pytest
 
 ### Featured projects
 
